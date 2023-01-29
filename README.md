@@ -7,3 +7,7 @@
 OsAmaro/OsAmaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Test QRcode VR
+
+<img src="https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fosamaro.github.io%2FtestCaddyELI%2F&chs=180x180&choe=UTF-8&chld=L|2" alt="qr code"><a href="www.qr-code-generator.com/" border="0" style="cursor:default" rel="nofollow"></a>
