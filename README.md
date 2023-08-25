@@ -4,6 +4,7 @@
 - pages: https://www.kaggle.com/oscaramaro , https://www.linkedin.com/in/%C3%B3scar-amaro-6794ab114/ , https://vimeo.com/user190664437
 
 Research papers:
+- [QScatter: Numerical Framework for Fast Prediction of Particle Distributions in Electron-Laser Scattering](https://arxiv.org/abs/2308.09348)
 - [Optimal laser focusing for positron production in laser–electron scattering](https://scholar.tecnico.ulisboa.pt/records/eH-7DDLjwCsjPTRf2E93fomnYFiKrOt-ieDz)
 - [A Living Review of Quantum Computing for Plasma Physics](https://scholar.tecnico.ulisboa.pt/records/XUefTL6orJd6CLO6eKXf5ofuglNvMYFv6fIp)
 - [MSc Thesis](https://scholar.tecnico.ulisboa.pt/records/LL3OuqFlgKoZp9pf_s_OrXF1wXcpqEv5DJOs)
