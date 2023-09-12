@@ -9,6 +9,8 @@ Research papers/scientific publications:
 - [A Living Review of Quantum Computing for Plasma Physics](https://scholar.tecnico.ulisboa.pt/records/XUefTL6orJd6CLO6eKXf5ofuglNvMYFv6fIp)
 - [MSc Thesis](https://scholar.tecnico.ulisboa.pt/records/LL3OuqFlgKoZp9pf_s_OrXF1wXcpqEv5DJOs)
 
+Open source / reproducible science:
+- [RePlasma project](https://replasma.github.io/)
 
 Articles:
 - "AI, o que vai ser da Física?" ("AI, what will happen to Physics") in the physics students magazine PULSAR nº 41, March 2021 http://pulsar41.nfist.pt/
