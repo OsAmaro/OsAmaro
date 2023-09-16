@@ -12,6 +12,9 @@ Research papers/scientific publications:
 Open source / reproducible science:
 - [RePlasma project](https://replasma.github.io/)
 
+Science visualizations:
+- [Laser Scattering](https://focusedlaser.glitch.me/)
+
 Articles:
 - "AI, o que vai ser da Física?" ("AI, what will happen to Physics") in the physics students magazine PULSAR nº 41, March 2021 http://pulsar41.nfist.pt/
 
