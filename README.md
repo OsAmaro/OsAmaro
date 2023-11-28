@@ -7,6 +7,7 @@ Research papers/scientific publications:
 - [QScatter: Numerical Framework for Fast Prediction of Particle Distributions in Electron-Laser Scattering](https://arxiv.org/abs/2308.09348)
 - [Optimal laser focusing for positron production in laser–electron scattering](https://iopscience.iop.org/article/10.1088/1367-2630/ac2e83), [Pre-print](https://arxiv.org/abs/2106.01877), [Scholar.tecnico](https://scholar.tecnico.ulisboa.pt/records/eH-7DDLjwCsjPTRf2E93fomnYFiKrOt-ieDz)
 - [A Living Review of Quantum Computing for Plasma Physics](https://arxiv.org/abs/2302.00001), [Scholar.tecnico](https://scholar.tecnico.ulisboa.pt/records/XUefTL6orJd6CLO6eKXf5ofuglNvMYFv6fIp), [WebPage](https://qppqlivingreview.github.io/review/)
+- [Visualizing Plasma Physics Simulations in Immersive Environments](https://arxiv.org/abs/2311.14593), [Scholar.tecnico](https://scholar.tecnico.ulisboa.pt/records/5rQvyVEGO_Zuw_yUc0bOWA0-AvaXUa-O-EAe)
 - [MSc Thesis](https://scholar.tecnico.ulisboa.pt/records/LL3OuqFlgKoZp9pf_s_OrXF1wXcpqEv5DJOs)
 
 Open source / reproducible science:
