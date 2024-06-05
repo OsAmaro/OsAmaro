@@ -5,6 +5,7 @@
 - other pages: https://www.kaggle.com/oscaramaro , https://www.linkedin.com/in/%C3%B3scar-amaro-6794ab114/ , https://vimeo.com/user190664437
 
 Research papers/scientific publications:
+- **Neural network sampling of Bethe-Heitler process in particle-in-cell codes** [Pre-print](https://arxiv.org/abs/2406.02491)
 - [QScatter: Numerical Framework for Fast Prediction of Particle Distributions in Electron-Laser Scattering](https://iopscience.iop.org/article/10.1088/1361-6587/ad2975), [Pre-print](https://arxiv.org/abs/2308.09348), [Scholar.tecnico](https://scholar.tecnico.ulisboa.pt/records/WKLdNYKfAxPmIO3dqWWLQRvDJkDjcnCcGICO)
 - [Optimal laser focusing for positron production in laser–electron scattering](https://iopscience.iop.org/article/10.1088/1367-2630/ac2e83), [Pre-print](https://arxiv.org/abs/2106.01877), [Scholar.tecnico](https://scholar.tecnico.ulisboa.pt/records/eH-7DDLjwCsjPTRf2E93fomnYFiKrOt-ieDz)
 - [A Living Review of Quantum Computing for Plasma Physics](https://arxiv.org/abs/2302.00001), [Scholar.tecnico](https://scholar.tecnico.ulisboa.pt/records/XUefTL6orJd6CLO6eKXf5ofuglNvMYFv6fIp), [WebPage](https://qppqlivingreview.github.io/review/)
