@@ -7,9 +7,12 @@
 Research papers/scientific publications:
 - Main author:
   - **Neural network sampling of Bethe-Heitler process in particle-in-cell codes** [Pre-print](https://arxiv.org/abs/2406.02491)
-  - [QScatter: Numerical Framework for Fast Prediction of Particle Distributions in Electron-Laser Scattering](https://iopscience.iop.org/article/10.1088/1361-6587/ad2975), [Pre-print](https://arxiv.org/abs/2308.09348), [Scholar.tecnico](https://scholar.tecnico.ulisboa.pt/records/WKLdNYKfAxPmIO3dqWWLQRvDJkDjcnCcGICO)
-  - [A Living Review of Quantum Computing for Plasma Physics](https://arxiv.org/abs/2302.00001), [Scholar.tecnico](https://scholar.tecnico.ulisboa.pt/records/XUefTL6orJd6CLO6eKXf5ofuglNvMYFv6fIp), [WebPage](https://qppqlivingreview.github.io/review/)
-  - [Optimal laser focusing for positron production in laser–electron scattering](https://iopscience.iop.org/article/10.1088/1367-2630/ac2e83), [Pre-print](https://arxiv.org/abs/2106.01877), [Scholar.tecnico](https://scholar.tecnico.ulisboa.pt/records/eH-7DDLjwCsjPTRf2E93fomnYFiKrOt-ieDz)
+
+  - QScatter: Numerical Framework for Fast Prediction of Particle Distributions in Electron-Laser Scattering <a href="https://iopscience.iop.org/article/10.1088/1361-6587/ad2975" style='vertical-align:middle; display:inline;'><img src="https://img.shields.io/badge/PPCF-QScatter-blue.svg" class="plain" style="height:25px;" /></a>
+<a href="https://arxiv.org/abs/2308.09348" style='vertical-align:middle; display:inline;'><img src="https://img.shields.io/badge/plasm--ph-arXiv%3A2308.09348-B31B1B.svg" class="plain" style="height:25px;" /></a>
+<a href="https://github.com/OsAmaro/QScatter" style='vertical-align:middle; display:inline;'><img src="https://img.shields.io/badge/-RePlasma-blue.svg" class="plain" style="height:25px;" /></a> 
+  - [A Living Review of Quantum Computing for Plasma Physics](https://arxiv.org/abs/2302.00001), [WebPage](https://qppqlivingreview.github.io/review/)
+  - [Optimal laser focusing for positron production in laser–electron scattering](https://iopscience.iop.org/article/10.1088/1367-2630/ac2e83), [Pre-print](https://arxiv.org/abs/2106.01877)
   - [MSc Thesis](https://scholar.tecnico.ulisboa.pt/records/LL3OuqFlgKoZp9pf_s_OrXF1wXcpqEv5DJOs)
 - Co-author:
   - [All-optical nonlinear Compton scattering performed with a multi-petawatt laser](https://www.nature.com/articles/s41566-024-01550-8)
