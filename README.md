@@ -6,6 +6,8 @@
 
 Research papers/scientific publications:
 - Main author:
+
+  - **Variational Quantum Simulation of the Fokker-Planck Equation of Quantum Radiation Reaction** [Pre-print](https://arxiv.org/abs/2411.17517)
   - **Neural network sampling of Bethe-Heitler process in particle-in-cell codes** [Pre-print](https://arxiv.org/abs/2406.02491)
 
   - QScatter: Numerical Framework for Fast Prediction of Particle Distributions in Electron-Laser Scattering <a href="https://iopscience.iop.org/article/10.1088/1361-6587/ad2975" style='vertical-align:middle; display:inline;'><img src="https://img.shields.io/badge/PPCF-QScatter-blue.svg" class="plain" style="height:25px;" /></a>
