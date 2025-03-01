@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @OsAmaro
 - 👀 I’m interested in Plasma-Laser Physics, Strong Field QED, Quantum Computing, Machine Learning and XR (Virtual and Augmented Reality) for Scientific Visualization
-- 🌱 I’m currently learning Machine Learning
-- Scholar pages: [Research group](http://epp.tecnico.ulisboa.pt/team/), [Google scholar](https://scholar.google.com/citations?user=EQGUncsAAAAJ&hl=en&oi=ao), [Tecnico](https://scholar.tecnico.ulisboa.pt/authors/76c80635ae8e94bb818de833a9e8662e880e09128197ef38e1004c12b802c28f/records)
-- Other pages: https://www.kaggle.com/oscaramaro , https://www.linkedin.com/in/%C3%B3scar-amaro-6794ab114/ , https://vimeo.com/user190664437
+- 🌱 Scholar pages: [Research group](http://epp.tecnico.ulisboa.pt/team/), [Google scholar](https://scholar.google.com/citations?user=EQGUncsAAAAJ&hl=en&oi=ao), [Tecnico](https://scholar.tecnico.ulisboa.pt/authors/76c80635ae8e94bb818de833a9e8662e880e09128197ef38e1004c12b802c28f/records)
+  - Other pages: https://www.kaggle.com/oscaramaro , https://www.linkedin.com/in/%C3%B3scar-amaro-6794ab114/ , https://vimeo.com/user190664437
 
 Research papers/scientific publications:
-- **Main author**:
+- **First/main author**:
 
   - Variational Quantum Simulation of the Fokker-Planck Equation of Quantum Radiation Reaction
     > <a href="https://arxiv.org/abs/2411.17517" style='vertical-align:middle; display:inline;'><img src="https://img.shields.io/badge/plasm--ph-arXiv%3A2411.17517-B31B1B.svg" class="plain" style="height:25px;" /></a>
@@ -32,7 +31,7 @@ Research papers/scientific publications:
   - [Visualizing Plasma Physics Simulations in Immersive Environments](https://arxiv.org/abs/2311.14593), [Scholar.tecnico](https://scholar.tecnico.ulisboa.pt/records/5rQvyVEGO_Zuw_yUc0bOWA0-AvaXUa-O-EAe)
 
 Open source / reproducible science:
-- [RePlasma project](https://replasma.github.io/)
+- RePlasma Project <a href="https://replasma.github.io/" style='vertical-align:middle; display:inline;'><img src="https://img.shields.io/badge/-RePlasma-blue.svg" class="plain" style="height:25px;" /></a> 
 
 Science visualizations:
 - [Laser Scattering](https://focusedlaser.glitch.me/)
