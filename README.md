@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OsAmaro
 - 👀 I’m interested in Plasma-Laser Physics, Strong Field QED, Quantum Computing, Machine Learning and XR (Virtual and Augmented Reality) for Scientific Visualization
-- 🌱 Scholar pages: [Research group](http://epp.tecnico.ulisboa.pt/team/), [Inspire-HEP](https://inspirehep.net/authors/1896824?ui-citation-summary=true), [Google scholar](https://scholar.google.com/citations?user=EQGUncsAAAAJ&hl=en&oi=ao), [Tecnico](https://scholar.tecnico.ulisboa.pt/authors/76c80635ae8e94bb818de833a9e8662e880e09128197ef38e1004c12b802c28f/records)
+- 🌱 Scholar pages: [Research group](https://web.tecnico.ulisboa.pt/marija.vranic/), [Inspire-HEP](https://inspirehep.net/authors/1896824?ui-citation-summary=true), [Google scholar](https://scholar.google.com/citations?user=EQGUncsAAAAJ&hl=en&oi=ao), [Tecnico](https://scholar.tecnico.ulisboa.pt/authors/76c80635ae8e94bb818de833a9e8662e880e09128197ef38e1004c12b802c28f/records)
   - Other pages: https://www.kaggle.com/oscaramaro , https://www.linkedin.com/in/%C3%B3scar-amaro-6794ab114/ , https://vimeo.com/user190664437
 
 Research papers/scientific publications:
@@ -28,6 +28,7 @@ Research papers/scientific publications:
   - [MSc Thesis](https://scholar.tecnico.ulisboa.pt/records/LL3OuqFlgKoZp9pf_s_OrXF1wXcpqEv5DJOs)
 
 - Co-author:
+  - [Quantum Monte Carlo Simulations for predicting electron-positron pair production via the linear Breit-Wheeler process](https://arxiv.org/abs/2601.03953)
   - [All-optical nonlinear Compton scattering performed with a multi-petawatt laser](https://www.nature.com/articles/s41566-024-01550-8)
   - [Quantum implementation of non-unitary operations with biorthogonal representations](https://arxiv.org/abs/2410.22505)
   - [Visualizing Plasma Physics Simulations in Immersive Environments](https://arxiv.org/abs/2311.14593), [Scholar.tecnico](https://scholar.tecnico.ulisboa.pt/records/5rQvyVEGO_Zuw_yUc0bOWA0-AvaXUa-O-EAe)
