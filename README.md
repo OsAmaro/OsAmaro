@@ -12,7 +12,8 @@ Research papers/scientific publications:
 <a href="https://doi.org/10.1017/S0022377825100652" style='vertical-align:middle; display:inline;'><img src="https://img.shields.io/badge/JPP-QuantumFokkerPlanck-lightblue.svg" class="plain" style="height:25px;" /></a>
   - Neural network sampling of Bethe-Heitler process in particle-in-cell codes
     > <a href="https://arxiv.org/abs/2406.02491" style='vertical-align:middle; display:inline;'><img src="https://img.shields.io/badge/plasm--ph-arXiv%3A2406.02491-B31B1B.svg" class="plain" style="height:25px;" /></a>
-<a href="https://github.com/OsAmaro/osirisBetheHeitlerML" style='vertical-align:middle; display:inline;'><img src="https://img.shields.io/badge/-RePlasma-blue.svg" class="plain" style="height:25px;" /></a> 
+<a href="https://github.com/OsAmaro/osirisBetheHeitlerML" style='vertical-align:middle; display:inline;'><img src="https://img.shields.io/badge/-RePlasma-blue.svg" class="plain" style="height:25px;" /></a>
+<a href="https://doi.org/10.1016/j.jcp.2026.114707" style='vertical-align:middle; display:inline;'><img src="https://img.shields.io/badge/JCP-osirisBetheHeitlerML-lightblue.svg" class="plain" style="height:25px;" /></a>
 <a href="https://zenodo.org/records/11422851" style='vertical-align:middle; display:inline;'><img src="https://img.shields.io/badge/-Zenodo-blue.svg" class="plain" style="height:25px;" /></a> 
   - QScatter: Numerical Framework for Fast Prediction of Particle Distributions in Electron-Laser Scattering
     > <a href="https://arxiv.org/abs/2308.09348" style='vertical-align:middle; display:inline;'><img src="https://img.shields.io/badge/plasm--ph-arXiv%3A2308.09348-B31B1B.svg" class="plain" style="height:25px;" /></a>
